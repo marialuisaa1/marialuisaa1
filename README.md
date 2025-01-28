@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1> <a ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Maria+Luísa+Pereira+.+.+.&color=7f00ff" alt="Typing SVG" /></a> </h1>
+<h1>♦ Formação</h1>
 
-<!--
-**marialuisaa1/marialuisaa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Curso Técnico em Desenvolvimento de Sistemas – SENAI 
+- Curso Técnico em Mecatrônica - SENAI
+- Curso Engenharia Elétrica - UNESA
+  
+<h1>♦ Experiência Profissional</h1>
 
-Here are some ideas to get you started:
+- Apendiz Desenvolvedor de Sistemas – CPTM
+- Aprendiz de Manutenção - Metrô
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
